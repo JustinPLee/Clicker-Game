@@ -1,4 +1,2 @@
 # Clicker-Game
-WIP
-
-Clicker game
+WPI
